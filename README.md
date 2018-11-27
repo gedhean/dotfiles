@@ -7,6 +7,8 @@ Plugins:
 - AllAutocomple
 - Emmet
 - GitGutter
+- [A File Icon](https://github.com/ihodev/a-file-icon)
+- [Material Theme](https://github.com/equinusocio/material-theme)
 
 Packages/User/Preferences.sublime-settings:
 ```python
