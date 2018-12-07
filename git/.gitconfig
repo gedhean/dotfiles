@@ -1,0 +1,13 @@
+[user]
+	email = gedhean.dev@gmail.com
+	name = Gêdhean Alves Vieira
+[diff]
+	tool = vimdiff
+[merge]
+        tool = vimdiff
+        conflictstyle = diff3
+[mergetool]
+        prompt = false
+
+[difftool]
+	prompt = false
