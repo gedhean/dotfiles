@@ -11,7 +11,10 @@
 		"GitGutter",
 		"MarkdownPreview",
 		"Material Theme",
+		"MoveTab",
 		"Package Control",
-		"Package Syncing"
+		"RubyTest",
+		"Sync Settings",
+		"VIM Navigation"
 	]
 }

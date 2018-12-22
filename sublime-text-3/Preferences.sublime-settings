@@ -9,6 +9,7 @@
 	],
 	"index_files": true,
 	"material_theme_small_tab": true,
+	"remember_full_screen": true,
 	"tab_size": 2,
 	"theme": "Material-Theme-Palenight.sublime-theme",
 	"translate_tabs_to_spaces": true,
