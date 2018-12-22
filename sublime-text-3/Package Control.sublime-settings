@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Clipboard Manager",
+		"GitGutter",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"Package Syncing"
+	]
+}
