@@ -7,13 +7,19 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"BracketHighlighter",
 		"Clipboard Manager",
 		"GitGutter",
 		"MarkdownPreview",
 		"Material Theme",
+		"Materialize",
 		"MoveTab",
 		"Package Control",
+		"RuboCop",
 		"RubyTest",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"Sync Settings",
 		"VIM Navigation"
 	]

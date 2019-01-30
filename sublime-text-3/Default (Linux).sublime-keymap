@@ -7,4 +7,7 @@
   { "keys": ["super+shift+v"], "command": "clipboard_manager_previous_and_paste" },
   { "keys": ["super+alt+ctrl+v"], "command": "clipboard_manager_choose_and_paste" },
   { "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+  { "keys": ["ctrl+shift+z"], "command": "toggle_distraction_free" },
+  { "keys": ["alt+up"], "command": "goto_definition" },
+  { "keys": ["alt+down"], "command": "jump_back" }
 ]

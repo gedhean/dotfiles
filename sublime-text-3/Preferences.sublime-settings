@@ -1,10 +1,12 @@
 {
 	"auto_complete": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"color_scheme": "Packages/Materialize/schemes/Material One Dark.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"Vintage"
 	],
 	"index_files": true,
