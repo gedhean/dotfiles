@@ -5,22 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"ayu",
 		"BracketHighlighter",
-		"Clipboard Manager",
+		"CloseOtherWindows",
+		"Enki Theme",
+		"ERB Autocomplete",
 		"GitGutter",
-		"MarkdownPreview",
 		"Material Theme",
-		"Materialize",
 		"MoveTab",
 		"Package Control",
+		"Pretty Ruby",
 		"RuboCop",
+		"Ruby on Rails snippets",
 		"RubyTest",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
-		"SublimeLinter-ruby",
-		"Sync Settings",
-		"VIM Navigation"
+		"SummitLinter"
 	]
 }

@@ -1,0 +1,4 @@
+{
+	"last_test_run": "ruby -Itest test/controllers/designs_controller_test.rb",
+	"last_test_working_dir": "/home/gedhean/workspace/gocatalog"
+}

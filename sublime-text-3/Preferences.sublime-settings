@@ -1,19 +1,22 @@
 {
 	"auto_complete": true,
-	"color_scheme": "Packages/Materialize/schemes/Material One Dark.tmTheme",
-	"ensure_newline_at_eof_on_save": true,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"SublimeLinter",
-		"SublimeLinter-rubocop",
 		"Vintage"
 	],
 	"index_files": true,
+	"material_theme_accent_bright-teal": true,
+	"material_theme_accent_red": true,
 	"material_theme_small_tab": true,
 	"remember_full_screen": true,
+	"rubocop_path": "/home/user/.rvm/gems/ruby-2.3.4/wrappers/rubocop",
+	"ruby_path": "/home/user/.rvm/rubies/ruby-2.3.4/bin/ruby",
 	"tab_size": 2,
-	"theme": "Material-Theme-Palenight.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+  "folder_exclude_patterns": ["tmp", "cache", ".svn", ".git", ".hg", "CVS"],
+  "file_exclude_patterns": ["*.log", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
 }

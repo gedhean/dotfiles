@@ -1,13 +1,12 @@
 [
-  { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
-  { "keys": ["super+x"], "command": "clipboard_manager_cut" },
-  { "keys": ["super+c"], "command": "clipboard_manager_copy" },
-  { "keys": ["super+v"], "command": "clipboard_manager_paste", "args": { "indent": true } },
-  { "keys": ["super+ctrl+v"], "command": "clipboard_manager_paste", "args": { "indent": false } },
-  { "keys": ["super+shift+v"], "command": "clipboard_manager_previous_and_paste" },
-  { "keys": ["super+alt+ctrl+v"], "command": "clipboard_manager_choose_and_paste" },
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+z"], "command": "toggle_distraction_free" },
+  { "keys": ["ctrl+shift+i"], "command": "pretty_ruby_format" },
+  { "keys": ["super+alt+n"], "command": "advenced_new_file" },
   { "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-  { "keys": ["ctrl+shift+z"], "command": "toggle_distraction_free" },
-  { "keys": ["alt+up"], "command": "goto_definition" },
-  { "keys": ["alt+down"], "command": "jump_back" }
+  { "keys": ["super+alt+n"], "command": "advenced_new_file" },
+  { "keys": ["ctrl+alt+i"], "command": "rubocop_auto_correct"},
+  { "keys": ["ctrl+alt+l"], "command": "rubocop_pause_toggle"},
+  // { "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true, "text": "app/ "} },
 ]
+
