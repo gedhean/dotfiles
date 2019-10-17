@@ -56,7 +56,7 @@ set ruler                                                                     " 
 "set relativenumber                                                            " Show line number on the current line and relative numbers on all other lines.
 "set tabpagemax=50                                                             " Maximum number of tab pages that can be opened from the command line.
 "set wildmenu                                                                  " Display command line’s tab complete options as a menu.
-"set colorscheme wombat256mod                                                  " Change color scheme
+"colorscheme elflord                                                           " Change color scheme
 "set cursorline                                                                " Highlight the line currently under cursor.
 "set noerrorbells                                                              " Disable beep on errors.
 "set visualbell                                                                " Flash the screen instead of beeping on errors.
@@ -123,3 +123,9 @@ nnoremap <Leader>hf :NERDTreeFind<CR>
 " Open NERDTree
 nnoremap <Leader>n :NERDTreeToggle<CR>
 nnoremap <C-p> :<C-u>FZF<CR>
+" fzf
+let g:fzf_layout = { 'right': '~40%' }
+
+if &diff
+  colorscheme elflord
+endif
